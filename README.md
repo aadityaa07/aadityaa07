@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aadityaa07
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c
-- 💞️ I’m looking to collaborate on basics of c
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on basics of mern stack
 - 📫 How to reach me ...
 - 😄 Pronouns: him
 - ⚡ Fun fact: i love cricket and esports
